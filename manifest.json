@@ -1,0 +1,22 @@
+{
+  "name": "MagixDailymotion",
+  "version": "1.0.0",
+  "description": "Gestionnaire de vidéos Dailymotion publiques et privées multimodules.",
+  "author": "Gerits Aurelien (Magix CMS)",
+  "type": "hybrid",
+  "has_config": true,
+  "core_targets": {
+    "home": 0,
+    "pages": 0,
+    "news": 0,
+    "catalog": 0,
+    "category": 0,
+    "product": 1,
+    "about": 0
+  },
+  "default_hooks": [
+    "displayProductExtraContent",
+    "displayPageBottom",
+    "displayNewsBottom"
+  ]
+}
