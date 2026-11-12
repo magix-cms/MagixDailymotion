@@ -9,6 +9,9 @@ MagixDailymotion est un gestionnaire de vidéos avancé de type **hybride** pour
 
 Il intègre une gestion fine de la visibilité et des restrictions de domaine permettant de vendre des contenus vidéo exclusifs (formations, tutoriels, replays) via `Magixcartpay` et `Magixaccount`.
 
+<img width="1100" height="614" alt="MagixDailymotion" src="https://github.com/user-attachments/assets/8a991dc3-6e55-4e15-9b71-da317ded53a8" />
+
+
 ## 🚀 Fonctionnalités principales
 
 * **Synchronisation Directe API Dailymotion** : Téléversement depuis le back-office avec titre personnalisé (ou reprise automatique du nom de fichier), suppression automatique du fichier vidéo temporaire sur votre serveur après transfert, et récupération automatique des miniatures (360p / 720p) ainsi que de l'identifiant privé (`private_id`).
